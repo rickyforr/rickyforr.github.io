@@ -1,28 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.703fb132.chunk.css",
-    "main.js": "./static/js/main.157efc29.chunk.js",
-    "main.js.map": "./static/js/main.157efc29.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.ca8ab1f2.js",
-    "runtime-main.js.map": "./static/js/runtime-main.ca8ab1f2.js.map",
-    "static/js/2.701fa841.chunk.js": "./static/js/2.701fa841.chunk.js",
-    "static/js/2.701fa841.chunk.js.map": "./static/js/2.701fa841.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.7c349a490f541d74dd733e25cde61d2d.js": "./precache-manifest.7c349a490f541d74dd733e25cde61d2d.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.703fb132.chunk.css.map": "./static/css/main.703fb132.chunk.css.map",
-    "static/js/2.701fa841.chunk.js.LICENSE.txt": "./static/js/2.701fa841.chunk.js.LICENSE.txt",
-    "static/media/geology.jpg": "./static/media/geology.241b0114.jpg",
-    "static/media/goblin.png": "./static/media/goblin.01811980.png",
-    "static/media/lighthouse_diploma.jpg": "./static/media/lighthouse_diploma.7018a664.jpg",
-    "static/media/queens.png": "./static/media/queens.bcdf7508.png",
-    "static/media/trumpet_zebra.png": "./static/media/trumpet_zebra.3ca94e5f.png",
-    "static/media/walkSprite2.png": "./static/media/walkSprite2.b49dd378.png"
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.aa8bb927.chunk.js",
+    "main.js.map": "/static/js/main.aa8bb927.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e6bb16be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e6bb16be.js.map",
+    "static/js/2.e38f2838.chunk.js": "/static/js/2.e38f2838.chunk.js",
+    "static/js/2.e38f2838.chunk.js.map": "/static/js/2.e38f2838.chunk.js.map",
+    "static/js/3.2e6ad660.chunk.js": "/static/js/3.2e6ad660.chunk.js",
+    "static/js/3.2e6ad660.chunk.js.map": "/static/js/3.2e6ad660.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e38f2838.chunk.js.LICENSE.txt": "/static/js/2.e38f2838.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca8ab1f2.js",
-    "static/js/2.701fa841.chunk.js",
-    "static/css/main.703fb132.chunk.css",
-    "static/js/main.157efc29.chunk.js"
+    "static/js/runtime-main.e6bb16be.js",
+    "static/js/2.e38f2838.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.aa8bb927.chunk.js"
   ]
 }
